@@ -5,3 +5,6 @@ my interest:
 photography
 film
 
+my skills:
+logical thinking 
+basic programming
